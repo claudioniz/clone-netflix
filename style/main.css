@@ -104,3 +104,10 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 5px;
 }
+
+.box-filme:hover{
+     transform: scale(1.2);
+     display: flexbox;
+}
+
+
